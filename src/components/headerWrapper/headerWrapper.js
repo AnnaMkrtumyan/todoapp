@@ -1,4 +1,5 @@
 import React from 'react';
+import './headerWrapper.css';
 
 const HeaderWrapper = () => {
 	return  (

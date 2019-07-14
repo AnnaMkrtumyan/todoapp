@@ -1,4 +1,5 @@
 import React from 'react';
+import './app.css';
 
 import HeaderWrapper from '../../components/headerWrapper';
 import TodoList from '../../components/todoList';

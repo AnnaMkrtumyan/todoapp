@@ -1,4 +1,5 @@
 import React from 'react';
+import './todoListItem.css';
 
 const TodoListItem = (props) => {
 	const {label} = props;
